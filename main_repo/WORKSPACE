@@ -1,0 +1,4 @@
+local_repository(
+    name = "external_repo",
+    path = "../external_repo"
+)
